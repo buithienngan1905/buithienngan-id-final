@@ -557,6 +557,8 @@
     width: 100%;
 }
 .footer{
+    position: absolute;
+    z-index: 9999;
     padding: 100px, 0;
     background-color:  rgba(0, 119, 109);
     margin: 0 auto;
